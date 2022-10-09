@@ -110,34 +110,3 @@ favorite_language = 'Py' 'thon'
 print(favorite_language)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

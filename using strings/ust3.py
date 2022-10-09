@@ -91,12 +91,12 @@ print(multiplication1)
 print(multiplication2)
 
 # convert a string to a list
-somestring = "use the split function to change the list"
+somestring = "use the split method to change the list"
 somelist = somestring.split()
 print(somelist)
 
 # convert a list back to a string
-somelist = ['use', 'the', 'join', 'function', 'to', 'change', 'the', 'string']
+somelist = ['use', 'the', 'join', 'method', 'to', 'change', 'the', 'string']
 somestring = ' '.join(somelist)
 print(somestring)
 
@@ -109,9 +109,6 @@ print(thelist)
 art = "Ontario"
 revart = art[::-1]
 print(revart)
-
-
-
 
 
 
