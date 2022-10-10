@@ -1,5 +1,5 @@
 #################
-### using dictionaries
+### using lists
 ### part3
 #################
 
