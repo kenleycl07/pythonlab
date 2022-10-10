@@ -57,7 +57,8 @@ print(negative_answer)
 exclamative = '''"Oh no", he exclaimed, "Ken's program has crashed !"'''
 print(exclamative)
 
-# indexing
+# indexing and slicing
+
 print('Einstein'[0]) # E
 print('Einstein'[1]) # i
 print('Einstein'[4]) # t
