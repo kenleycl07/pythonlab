@@ -1,3 +1,8 @@
+#################
+### class
+### Personne
+#################
+
 def entree():
     class Personne:
         def __init__(self, nom, prenom, age, numero_tel):
