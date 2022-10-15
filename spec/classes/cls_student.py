@@ -1,6 +1,6 @@
 #################
 ### class
-### Coordinates
+### Student
 #################
 
 class Student:
