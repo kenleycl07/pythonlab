@@ -11,8 +11,8 @@ import sys
 if len(sys.argv) < 3:
     sys.exit("Missing required files.")
 # read file
-def read_file(fichier):
-    data = open(fichier, 'r', encoding="utf-8")
+def read_file(file):
+    data = open(file, 'r', encoding="utf-8")
     names = data.read().split(",")
     print(names)
 
