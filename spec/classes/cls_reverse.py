@@ -1,11 +1,11 @@
-#################
+#########
 ### class
 ### Reverse
-#################
+###########
 
 class Reverse:
     
-    """iterator for looping over a sequence backwards"""
+    # iterator for looping over a sequence backwards
     def __init__(self, data):
         self.data = data
         self.index = len(data)
