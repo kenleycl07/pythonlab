@@ -1,7 +1,7 @@
-#################
+#########
 ### class
 ### Student
-#################
+###########
 
 class Student:
     name = " "
@@ -86,4 +86,3 @@ if chemistry.registerStudent(std4):
     print(f'{std4} registered !')
 else:
     print(f'Sorry, {std4} cannot register in this course.')
-
