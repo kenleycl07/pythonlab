@@ -1,8 +1,8 @@
-#################
+#########
 ### class
 ### Person
 ### Student
-#################
+###########
 
 class Person:
     def __init__(self, firstname, lastname, age):
@@ -54,20 +54,4 @@ std2 = Student('Nome', 'Klone', 'october 1998', 'Computer Science')
 
 print(std1, std1.field)
 print(std2, std2.field)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
