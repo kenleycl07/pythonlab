@@ -1,7 +1,7 @@
-#################
+###############
 ### using lists
 ### part1
-#################
+#########
 
 # create an empty list
 
@@ -194,6 +194,3 @@ print("Copy of the list of fruits:", theFruits)
 theFruits.append("Guava")
 print("The copy gets changed:", theFruits)
 print("The original remains the same:", fruits)
-
-
-
