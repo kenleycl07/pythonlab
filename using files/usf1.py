@@ -156,6 +156,10 @@ f.close()
 # Create a function called write_in_file(). Open a file called myfile.txt.
 # Create a list called Words and write the words of the list in the file.
 # Each word should be written on one line of the file.
+# Create a function called read_from_file(). Open the file and 
+# read the words which will be put in a list called result.
+# return the list result.
+
 def write_in_file(words):
     # open file
     f = open("myfile.txt", "w")
@@ -165,11 +169,6 @@ def write_in_file(words):
     # close file
     f.close()
 
-# program sample
-# Create a function called read_from_file(). Open the file and 
-# read the words which will be put in a list called result.
-# return the list result.
-
 def read_from_file():
     # open file
     f = open("myfile.txt", "r")
@@ -177,4 +176,3 @@ def read_from_file():
     result = f.read().split()
 
     return result
-
