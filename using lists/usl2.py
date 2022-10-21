@@ -1,7 +1,7 @@
-#################
+###############
 ### using lists
 ### part2
-#################
+#########
 
 # indexing and slicing
 
@@ -116,28 +116,3 @@ print(letters)
 letters = ["a", "c", "b", "d", "f", "e"]
 letters.reverse()
 print(letters)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
