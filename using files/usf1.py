@@ -67,7 +67,6 @@ with open('squares.txt', 'r') as f:
 content = [line.strip() for line in open('squares.txt', 'r')]
 print(content)
 
-
 # program sample
 # Create a function getInformation() to get these information from the user
 # firstname, lastname, and age. This function will store the information
